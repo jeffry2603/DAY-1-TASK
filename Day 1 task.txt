@@ -1,0 +1,13 @@
+STATICALLY TYPED
+
+If a variable's type is known at the time of compilation, a language is said to be statically typed. Some programming languages require you, the programmer, to specify the type of each variable, while others (like Java, C, and C++) offer some form of type inference, which allows the type system to determine a variable's type (e.g.: OCaml, Haskell, Scala, Kotlin).
+The compiler can perform all types of checking, which has the primary benefit of catching many small, inconsequential bugs at an early stage.
+Example- C, C++, Java, Rust, Go, and Scala 
+
+DYNAMICALLY TYPED
+
+If a language's type is linked to run-time values rather than named variables, fields, etc., then the language is dynamically typed. As a result, programmers can write code a little faster since they no longer need to specify types each time (unless using a statically-typed language with type inference).
+Examples- JavaScript, Perl, Ruby, Python, PHP, and Erlang.
+
+
+
